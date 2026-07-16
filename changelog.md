@@ -1,4 +1,10 @@
-﻿# Release v57
+﻿# Release v58
+*Déploiement effectué le : 16/07/2026 à 22:01*
+
+## Nouveautés :
+config.h et les constantes grouper
+---
+# Release v57
 *Déploiement effectué le : 16/07/2026 à 21:43*
 
 ## Nouveautés :
