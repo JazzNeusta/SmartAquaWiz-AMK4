@@ -1,4 +1,10 @@
-﻿# Release v48
+﻿# Release v49
+*Déploiement effectué le : 16/07/2026 à 18:30*
+
+## Nouveautés :
+heu rien je tourne en rond je pense
+---
+# Release v48
 *Déploiement effectué le : 16/07/2026 à 18:17*
 
 ## Nouveautés :
