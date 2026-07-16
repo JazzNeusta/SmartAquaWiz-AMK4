@@ -1,3 +1,11 @@
+# Release v19
+*Déploiement effectué le : 16/07/2026 à 13:15:13,73*
+
+## Nouveautés :
+- fix .bat O -> y 
+
+---
+
 # Release v18
 *Déploiement effectué le : 16/07/2026 à 12:57:37,57*
 
