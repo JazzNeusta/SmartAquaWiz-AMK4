@@ -1,4 +1,10 @@
-﻿# Release v56
+﻿# Release v57
+*Déploiement effectué le : 16/07/2026 à 21:43*
+
+## Nouveautés :
+k
+---
+# Release v56
 *Déploiement effectué le : 16/07/2026 à 21:30*
 
 ## Nouveautés :
