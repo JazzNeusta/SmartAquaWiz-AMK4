@@ -1,3 +1,11 @@
+# Release v24
+*Déploiement effectué le : 16/07/2026 à 14:17:20,68*
+
+## Nouveautés :
+- test OTA v24 
+
+---
+
 # Release v23
 *Déploiement effectué le : 16/07/2026 à 14:04:19,52*
 
