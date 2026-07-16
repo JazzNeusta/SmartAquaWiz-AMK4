@@ -1,3 +1,11 @@
+# Release v23
+*Déploiement effectué le : 16/07/2026 à 14:04:19,52*
+
+## Nouveautés :
+- test OTA 
+
+---
+
 # Release v22
 *Déploiement effectué le : 16/07/2026 à 13:55:36,51*
 
