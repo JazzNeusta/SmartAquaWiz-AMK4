@@ -1,16 +1,11 @@
-# Release v35
-*DÃ©ploiement effectuÃ© le : 16/07/2026 Ã  15:07*
+# Release v36
+*DÃ©ploiement effectuÃ© le : 16/07/2026 Ã  15:13*
 
 ## NouveautÃ©s :
-Release OTA v28 - Centralisation du reboot et optimisation du buffer TLS 
-  
- - Extraction et crÃ©ation de la mÃ©thode statique publique WifiConfigPortal::resetNextWakeup() pour Ã©viter la duplication de code NVS. 
- - Mise Ã  jour de performOTA() pour utiliser cette mÃ©thode centralisÃ©e de purge avant chaque redÃ©marrage (succÃ¨s ou Ã©chec). 
- - Augmentation du buffer TLS Ã  2048 octets dans la boucle de tÃ©lÃ©chargement pour accÃ©lÃ©rer le flashage via GitHub. 
- - IntÃ©gration de la sÃ©curitÃ© anti-triche basÃ©e sur la progression rÃ©elle de l'Ã©criture en mÃ©moire Flash.
+- AmÃ©lioration du script JavaScript checkReconnect() avec un compteur de tentatives pour avertir l'utilisateur sur l'IHM Web en cas de timeout local avec la box.
 ---
-# Release v34
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  15:06*
+# Release v35
+*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  15:07*
 
 ## NouveautÃƒÂ©s :
 Release OTA v28 - Centralisation du reboot et optimisation du buffer TLS 
@@ -20,185 +15,196 @@ Release OTA v28 - Centralisation du reboot et optimisation du buffer TLS
  - Augmentation du buffer TLS ÃƒÂ  2048 octets dans la boucle de tÃƒÂ©lÃƒÂ©chargement pour accÃƒÂ©lÃƒÂ©rer le flashage via GitHub. 
  - IntÃƒÂ©gration de la sÃƒÂ©curitÃƒÂ© anti-triche basÃƒÂ©e sur la progression rÃƒÂ©elle de l'ÃƒÂ©criture en mÃƒÂ©moire Flash.
 ---
-# Release v29
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:56:50,43*
+# Release v34
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  15:06*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
+Release OTA v28 - Centralisation du reboot et optimisation du buffer TLS 
+  
+ - Extraction et crÃƒÆ’Ã‚Â©ation de la mÃƒÆ’Ã‚Â©thode statique publique WifiConfigPortal::resetNextWakeup() pour ÃƒÆ’Ã‚Â©viter la duplication de code NVS. 
+ - Mise ÃƒÆ’Ã‚Â  jour de performOTA() pour utiliser cette mÃƒÆ’Ã‚Â©thode centralisÃƒÆ’Ã‚Â©e de purge avant chaque redÃƒÆ’Ã‚Â©marrage (succÃƒÆ’Ã‚Â¨s ou ÃƒÆ’Ã‚Â©chec). 
+ - Augmentation du buffer TLS ÃƒÆ’Ã‚Â  2048 octets dans la boucle de tÃƒÆ’Ã‚Â©lÃƒÆ’Ã‚Â©chargement pour accÃƒÆ’Ã‚Â©lÃƒÆ’Ã‚Â©rer le flashage via GitHub. 
+ - IntÃƒÆ’Ã‚Â©gration de la sÃƒÆ’Ã‚Â©curitÃƒÆ’Ã‚Â© anti-triche basÃƒÆ’Ã‚Â©e sur la progression rÃƒÆ’Ã‚Â©elle de l'ÃƒÆ’Ã‚Â©criture en mÃƒÆ’Ã‚Â©moire Flash.
+---
+# Release v29
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:56:50,43*
+
+## NouveautÃƒÆ’Ã‚Â©s :
 
 ---
 
 # Release v28
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:42:29,70*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:42:29,70*
 
-## NouveautÃƒÂ©s :
-- performOTA() entiÃƒÂ¨rement nettoyÃƒÂ©e, optimisÃƒÂ©e et fusionnÃƒÂ©e avec toutes nos derniÃƒÂ¨res dÃƒÂ©couvertes (gros buffer TLS de 2048 octets pour la vitesse, sÃƒÂ©curitÃƒÂ© anti-triche basÃƒÂ©e sur la progression rÃƒÂ©elle de l'ÃƒÂ©criture, et bascule automatique en arriÃƒÂ¨re-plan).
+## NouveautÃƒÆ’Ã‚Â©s :
+- performOTA() entiÃƒÆ’Ã‚Â¨rement nettoyÃƒÆ’Ã‚Â©e, optimisÃƒÆ’Ã‚Â©e et fusionnÃƒÆ’Ã‚Â©e avec toutes nos derniÃƒÆ’Ã‚Â¨res dÃƒÆ’Ã‚Â©couvertes (gros buffer TLS de 2048 octets pour la vitesse, sÃƒÆ’Ã‚Â©curitÃƒÆ’Ã‚Â© anti-triche basÃƒÆ’Ã‚Â©e sur la progression rÃƒÆ’Ã‚Â©elle de l'ÃƒÆ’Ã‚Â©criture, et bascule automatique en arriÃƒÆ’Ã‚Â¨re-plan).
 
 ---
 
 # Release v27
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:31:39,43*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:31:39,43*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - rien c pour les tests .. fix du .bat 
 
 ---
 
 # Release v26
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:26:44,79*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:26:44,79*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - test v27
 
 ---
 
 # Release v25
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:19:16,19*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:19:16,19*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - ajout minuteur et test v25
 
 ---
 
 # Release v24
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:17:20,68*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:17:20,68*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - test OTA v24 
 
 ---
 
 # Release v23
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  14:04:19,52*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  14:04:19,52*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - test OTA 
 
 ---
 
 # Release v22
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  13:55:36,51*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  13:55:36,51*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - aiguillage entre les partitions et fix boucle infinie sur la mauvaise
 
 ---
 
 # Release v21
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  13:46:13,04*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  13:46:13,04*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - test OTA
 
 ---
 
 # Release v20
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  13:28:12,74*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  13:28:12,74*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - v20 ?
 
 ---
 
 # Release v19
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  13:15:13,73*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  13:15:13,73*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - fix .bat O -> y 
 
 ---
 
 # Release v18
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  12:57:37,57*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  12:57:37,57*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - fix .zip rapide
 
 ---
 
 # Release v17
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  12:55:44,53*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  12:55:44,53*
 
-## NouveautÃƒÂ©s :
-- animation er reboot auto aprÃƒÂ¨s la mise ÃƒÂ  jour
+## NouveautÃƒÆ’Ã‚Â©s :
+- animation er reboot auto aprÃƒÆ’Ã‚Â¨s la mise ÃƒÆ’Ã‚Â  jour
 
 ---
 
 # Release v16
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  12:25:39,75*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  12:25:39,75*
 
-## NouveautÃƒÂ©s :
-- le .zip fix pour test local et l'affichage pour la V16, donc test de l'OTA de v15 ÃƒÂ  V16. let's go avec le test pour vois avec l'affichage des log sur le SAW
+## NouveautÃƒÆ’Ã‚Â©s :
+- le .zip fix pour test local et l'affichage pour la V16, donc test de l'OTA de v15 ÃƒÆ’Ã‚Â  V16. let's go avec le test pour vois avec l'affichage des log sur le SAW
 
 ---
 
 # Release v15
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  12:13:18,01*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  12:13:18,01*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - le.txt en .md
 
 ---
 
 # Release v14
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  12:07:54,81*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  12:07:54,81*
 
-## NouveautÃƒÂ©s :
-- on a oubliÃƒÂ© le _internal pour la compil avec le .exe, donc on fait un zip pour le github et modif du readme aussi
+## NouveautÃƒÆ’Ã‚Â©s :
+- on a oubliÃƒÆ’Ã‚Â© le _internal pour la compil avec le .exe, donc on fait un zip pour le github et modif du readme aussi
 
 ---
 
 # Release v13
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:59:46,36*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:59:46,36*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - le C par S dans LICENSE en version EN
 
 ---
 
 # Release v12
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:57:50,17*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:57:50,17*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - fix github, licence et readme et le .bat
 
 ---
 
 # Release v13
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:48:00,25*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:48:00,25*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - Synchro totale v13
 
 ---
 
 # Release v12
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:44:03,88*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:44:03,88*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - oups j'ai delete le version.txt
 
 ---
 
 # Release v11
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:38:00,30*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:38:00,30*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - fix du .bat variables d'environnement
 
 ---
 
 # Release v10
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:34:38,49*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:34:38,49*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - test commit
 
 ---
 
 # Release v9
-*DÃƒÂ©ploiement effectuÃƒÂ© le : 16/07/2026 ÃƒÂ  11:30:54,56*
+*DÃƒÆ’Ã‚Â©ploiement effectuÃƒÆ’Ã‚Â© le : 16/07/2026 ÃƒÆ’Ã‚Â  11:30:54,56*
 
-## NouveautÃƒÂ©s :
+## NouveautÃƒÆ’Ã‚Â©s :
 - le.bat et le .md et tout le code ... 
 
 ---
