@@ -1,3 +1,11 @@
+# Release v22
+*Déploiement effectué le : 16/07/2026 à 13:55:36,51*
+
+## Nouveautés :
+- aiguillage entre les partitions et fix boucle infinie sur la mauvaise
+
+---
+
 # Release v21
 *Déploiement effectué le : 16/07/2026 à 13:46:13,04*
 
