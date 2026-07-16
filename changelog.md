@@ -1,4 +1,34 @@
-﻿# Release v38
+﻿# Release v41
+*Déploiement effectué le : 16/07/2026 à 16:47*
+
+## Nouveautés :
+Optimisation du script Batch de build avec détection automatique de l'âge du dernier firmware binaire via chemins absolus et PowerShell 
+- Intégration de l'option de contournement 'Fast-Track' permettant un commit et push directs si le binaire a moins de 2 minutes 
+- Remplacement du verrou temporel millis() par une vérification stricte basée sur l'Epoch Unix NTP dans handlePassiveOTACheck() 
+- Ajout d'un Getter public isTimeSynchronized() dans la classe TimeManager pour valider l'accès Internet avant requêtage GitHub 
+- Intégration d'un affichage dynamique du compte à rebours et de l'âge du binaire dans les logs de la console
+---
+# Release v40
+*Déploiement effectué le : 16/07/2026 à 16:45*
+
+## Nouveautés :
+Optimisation du script Batch de build avec détection automatique de l'âge du dernier firmware binaire via chemins absolus et PowerShell 
+- Intégration de l'option de contournement 'Fast-Track' permettant un commit et push directs si le binaire a moins de 2 minutes 
+- Remplacement du verrou temporel millis() par une vérification stricte basée sur l'Epoch Unix NTP dans handlePassiveOTACheck() 
+- Ajout d'un Getter public isTimeSynchronized() dans la classe TimeManager pour valider l'accès Internet avant requêtage GitHub 
+- Intégration d'un affichage dynamique du compte à rebours et de l'âge du binaire dans les logs de la console
+---
+# Release v39
+*Déploiement effectué le : 16/07/2026 à 16:44*
+
+## Nouveautés :
+ Optimisation du script Batch de build avec détection automatique de l'âge du dernier firmware binaire via chemins absolus et PowerShell 
+- Intégration de l'option de contournement 'Fast-Track' permettant un commit et push directs si le binaire a moins de 2 minutes 
+- Remplacement du verrou temporel millis() par une vérification stricte basée sur l'Epoch Unix NTP dans handlePassiveOTACheck() 
+- Ajout d'un Getter public isTimeSynchronized() dans la classe TimeManager pour valider l'accès Internet avant requêtage GitHub 
+- Intégration d'un affichage dynamique du compte à rebours et de l'âge du binaire dans les logs de la console
+---
+# Release v38
 *Déploiement effectué le : 16/07/2026 à 16:38*
 
 ## Nouveautés :
