@@ -1,4 +1,16 @@
-﻿# Release v53
+﻿# Release v55
+*Déploiement effectué le : 16/07/2026 à 21:19*
+
+## Nouveautés :
+rien test v55
+---
+# Release v54
+*Déploiement effectué le : 16/07/2026 à 21:18*
+
+## Nouveautés :
+rien , test v54 pour auto update
+---
+# Release v53
 *Déploiement effectué le : 16/07/2026 à 20:23*
 
 ## Nouveautés :
