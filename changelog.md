@@ -1,3 +1,11 @@
+# Release v17
+*Déploiement effectué le : 16/07/2026 à 12:55:44,53*
+
+## Nouveautés :
+- animation er reboot auto après la mise à jour
+
+---
+
 # Release v16
 *Déploiement effectué le : 16/07/2026 à 12:25:39,75*
 
