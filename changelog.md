@@ -1,3 +1,19 @@
+# Release v27
+*Déploiement effectué le : 16/07/2026 à 14:31:39,43*
+
+## Nouveautés :
+- rien c pour les tests .. fix du .bat 
+
+---
+
+# Release v26
+*Déploiement effectué le : 16/07/2026 à 14:26:44,79*
+
+## Nouveautés :
+- test v27
+
+---
+
 # Release v25
 *Déploiement effectué le : 16/07/2026 à 14:19:16,19*
 
