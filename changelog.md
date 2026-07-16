@@ -1,4 +1,10 @@
-﻿# Release v47
+﻿# Release v48
+*Déploiement effectué le : 16/07/2026 à 18:17*
+
+## Nouveautés :
+invertion encore
+---
+# Release v47
 *Déploiement effectué le : 16/07/2026 à 18:05*
 
 ## Nouveautés :
