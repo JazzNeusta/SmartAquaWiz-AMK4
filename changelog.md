@@ -1,4 +1,10 @@
-﻿# Release v52
+﻿# Release v53
+*Déploiement effectué le : 16/07/2026 à 20:23*
+
+## Nouveautés :
+ 30 min -> 30 j 
+---
+# Release v52
 *Déploiement effectué le : 16/07/2026 à 19:08*
 
 ## Nouveautés :
