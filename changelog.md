@@ -1,4 +1,10 @@
-﻿# Release v60
+﻿# Release v61
+*Déploiement effectué le : 16/07/2026 à 23:07*
+
+## Nouveautés :
+j'ai remis les valeurs 30j et 5 min
+---
+# Release v60
 *Déploiement effectué le : 16/07/2026 à 22:59*
 
 ## Nouveautés :
