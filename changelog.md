@@ -1,3 +1,11 @@
+# Release v21
+*Déploiement effectué le : 16/07/2026 à 13:46:13,04*
+
+## Nouveautés :
+- test OTA
+
+---
+
 # Release v20
 *Déploiement effectué le : 16/07/2026 à 13:28:12,74*
 
