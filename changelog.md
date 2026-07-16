@@ -1,4 +1,15 @@
-﻿# Release v42
+﻿# Release v43
+*Déploiement effectué le : 16/07/2026 à 17:06*
+
+## Nouveautés :
+Intégration du laboratoire de création led_studio et de l'API de contrôle interactive 
+- Création d'une interface web dédiée '/led_page' dans le WifiConfigPortal avec le diagramme interactif de la machine à états native 
+- Ajout d'un espace de création 'led_studio' équipé d'un sélecteur de couleurs (cercle colorimétrique) et de 5 slots mémoires configurables (durée d'affichage Xms et boucle Loop) 
+- Implémentation de la route API REST '/api/play_custom_led' (requêtes HTTP POST) pour analyser les structures JSON d'ArduinoJson et piloter en direct les GPIO matériels (14, 27, 26) de l'AMK4 
+- Mise à jour de l'onglet CRUD de l'application Python Windows W8.py avec alignement strict des contrôles de la machine à états et gestion asynchrone des threads d'envoi pour éviter le gel de l'IHM 
+- Correction de la syntaxe Tkinter et des callbacks d'événements (lambda event) sur le clic des slots de couleurs
+---
+# Release v42
 *Déploiement effectué le : 16/07/2026 à 16:53*
 
 ## Nouveautés :
