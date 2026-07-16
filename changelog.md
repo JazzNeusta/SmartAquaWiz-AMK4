@@ -1,4 +1,10 @@
-﻿# Release v49
+﻿# Release v50
+*Déploiement effectué le : 16/07/2026 à 18:39*
+
+## Nouveautés :
+Léa feedback
+---
+# Release v49
 *Déploiement effectué le : 16/07/2026 à 18:30*
 
 ## Nouveautés :
