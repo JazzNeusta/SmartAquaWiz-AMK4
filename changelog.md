@@ -1,4 +1,10 @@
-﻿# Release v43
+﻿# Release v44
+*Déploiement effectué le : 16/07/2026 à 17:19*
+
+## Nouveautés :
+bug fix
+---
+# Release v43
 *Déploiement effectué le : 16/07/2026 à 17:06*
 
 ## Nouveautés :
