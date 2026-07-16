@@ -1,3 +1,11 @@
+# Release v16
+*Déploiement effectué le : 16/07/2026 à 12:25:39,75*
+
+## Nouveautés :
+- le .zip fix pour test local et l'affichage pour la V16, donc test de l'OTA de v15 à V16. let's go avec le test pour vois avec l'affichage des log sur le SAW
+
+---
+
 # Release v15
 *Déploiement effectué le : 16/07/2026 à 12:13:18,01*
 
