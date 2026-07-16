@@ -1,3 +1,11 @@
+# Release v18
+*Déploiement effectué le : 16/07/2026 à 12:57:37,57*
+
+## Nouveautés :
+- fix .zip rapide
+
+---
+
 # Release v17
 *Déploiement effectué le : 16/07/2026 à 12:55:44,53*
 
