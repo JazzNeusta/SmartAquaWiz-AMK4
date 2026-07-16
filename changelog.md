@@ -1,3 +1,11 @@
+# Release v14
+*Déploiement effectué le : 16/07/2026 à 12:07:54,81*
+
+## Nouveautés :
+- on a oublié le _internal pour la compil avec le .exe, donc on fait un zip pour le github et modif du readme aussi
+
+---
+
 # Release v13
 *Déploiement effectué le : 16/07/2026 à 11:59:46,36*
 

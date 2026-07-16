@@ -6,7 +6,7 @@ Bienvenue sur le dépôt de distribution officiel de **SmartAquaWiz**. Ce dossie
 
 ## 🚀 Téléchargements Directs
 
-* **[Télécharger l'application Windows (AquaWiz.exe)](./AquaWiz.exe?raw=true)** : L'interface graphique pour piloter et calibrer ton système depuis ton PC.
+* **[Télécharger l'application Windows (AquaWiz.zip)](./AquaWiz.zip?raw=true)** : L'archive contenant l'application complète. Décompresse simplement le dossier et lance `AquaWiz.exe` !
 * **[Télécharger le Firmware ESP32 (firmware.bin)](./firmware.bin?raw=true)** : Le binaire d'usine à flasher sur ton microcontrôleur.
 
 ---
