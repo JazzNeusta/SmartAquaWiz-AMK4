@@ -1,4 +1,16 @@
-﻿# Release v44
+﻿# Release v45
+*Déploiement effectué le : 16/07/2026 à 17:36*
+
+## Nouveautés :
+Optimisation de la StatusLed et refonte du laboratoire visuel interactif 
+- Intégration complète de la machine à états de l'AMK4 (12 états et motifs temporels) sous forme d'arbre de décision sémantique interactif et cliquable en HTML5/SVG 
+- Retrait complet du module led_studio de l'application de maintenance Python W8.py pour alléger l'IHM et éliminer les conflits de callbacks Tkinter 
+- Centralisation de l'outil de création et de pulsation dynamique (5 slots de couleurs, Xms de rythme et boucle Loop) au sein de la page web embarquée (/led_page) 
+- Correction de la boucle d'itération matérielle (incrémentation de la variable c au lieu de i) dans l'API REST de l'ESP32 pour éliminer les plantages de Watchdog 
+- Intégration des conditions de décodage pour les motifs d'attente Usine (FAST_FLASH) et de portail captif (SUPER_FAST_FLASH) 
+- Résolution du bug de détection du choix 'Fast-Track' (k) dans le script LANCER_WINDOWS.bat via l'extraction du bloc conditionnel hors des parenthèses de CMD
+---
+# Release v44
 *Déploiement effectué le : 16/07/2026 à 17:19*
 
 ## Nouveautés :
