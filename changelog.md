@@ -1,3 +1,11 @@
+# Release v20
+*Déploiement effectué le : 16/07/2026 à 13:28:12,74*
+
+## Nouveautés :
+- v20 ?
+
+---
+
 # Release v19
 *Déploiement effectué le : 16/07/2026 à 13:15:13,73*
 
