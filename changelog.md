@@ -1,4 +1,15 @@
-﻿# Release v51
+﻿# Release v52
+*Déploiement effectué le : 16/07/2026 à 19:08*
+
+## Nouveautés :
+Résolution de la colision logique LED et correction du Jaune/Orange sur V1 
+- Migration du moteur d'écriture matériel du mode binaire (digitalWrite) vers la modulation PWM (analogWrite) dans StatusLed et WifiConfigPortal 
+- Implémentation d'un bridage d'intensité adaptatif sur le canal Vert (limité à 30%) lors de la composition des teintes secondaires pour compenser la tension de seuil Vf du circuit 
+- Correction de la route API /api/play_custom_led pour appliquer la table d'inversion Active LOW (Anode Commune) lors des appels directs du Studio LED 
+- Alignement strict du firmware sur le mappage physique du schéma électronique validé (IO14=Rouge, IO27=Vert, IO26=Bleu) 
+- Nettoyage et uniformisation sémantique de la route de rétrocompatibilité /set_led
+---
+# Release v51
 *Déploiement effectué le : 16/07/2026 à 18:52*
 
 ## Nouveautés :
