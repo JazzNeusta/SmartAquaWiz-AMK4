@@ -1,4 +1,14 @@
-﻿# Release v45
+﻿# Release v46
+*Déploiement effectué le : 16/07/2026 à 17:56*
+
+## Nouveautés :
+Alignement matériel et correctif de la StatusLed pour la révision PCB-V1 
+- Configuration du micrologiciel en logique Anode Commune (activeHigh = false) pour s'aligner sur le rail d'alimentation permanent 3V3_MAIN de la LED 
+- Résolution du problème d'inversion chromatique et de teintes complémentaires sur les cartes V1 
+- Cartographie de l'erreur de routage Vert/Bleu (GPIO 26/27) documentée pour la future révision des cartes V2 
+- Validation finale de l'Arbre de Décision interactif du boot sur l'IHM web embarquée
+---
+# Release v45
 *Déploiement effectué le : 16/07/2026 à 17:36*
 
 ## Nouveautés :
