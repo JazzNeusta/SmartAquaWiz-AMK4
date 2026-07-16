@@ -1,3 +1,11 @@
+# Release v25
+*Déploiement effectué le : 16/07/2026 à 14:19:16,19*
+
+## Nouveautés :
+- ajout minuteur et test v25
+
+---
+
 # Release v24
 *Déploiement effectué le : 16/07/2026 à 14:17:20,68*
 
