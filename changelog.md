@@ -1,3 +1,35 @@
+# Release v13
+*Déploiement effectué le : 16/07/2026 à 11:59:46,36*
+
+## Nouveautés :
+- le C par S dans LICENSE en version EN
+
+---
+
+# Release v12
+*Déploiement effectué le : 16/07/2026 à 11:57:50,17*
+
+## Nouveautés :
+- fix github, licence et readme et le .bat
+
+---
+
+# Release v13
+*Déploiement effectué le : 16/07/2026 à 11:48:00,25*
+
+## Nouveautés :
+- Synchro totale v13
+
+---
+
+# Release v12
+*Déploiement effectué le : 16/07/2026 à 11:44:03,88*
+
+## Nouveautés :
+- oups j'ai delete le version.txt
+
+---
+
 # Release v11
 *Déploiement effectué le : 16/07/2026 à 11:38:00,30*
 
