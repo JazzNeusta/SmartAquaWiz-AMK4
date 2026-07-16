@@ -1,4 +1,10 @@
-﻿# Release v55
+﻿# Release v56
+*Déploiement effectué le : 16/07/2026 à 21:30*
+
+## Nouveautés :
+test fast v56
+---
+# Release v55
 *Déploiement effectué le : 16/07/2026 à 21:19*
 
 ## Nouveautés :
