@@ -1,4 +1,10 @@
-﻿# Release v58
+﻿# Release v59
+*Déploiement effectué le : 16/07/2026 à 22:11*
+
+## Nouveautés :
+OTA check version
+---
+# Release v58
 *Déploiement effectué le : 16/07/2026 à 22:01*
 
 ## Nouveautés :
