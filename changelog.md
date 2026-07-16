@@ -1,4 +1,10 @@
-﻿# Release v59
+﻿# Release v60
+*Déploiement effectué le : 16/07/2026 à 22:59*
+
+## Nouveautés :
+rien 
+---
+# Release v59
 *Déploiement effectué le : 16/07/2026 à 22:11*
 
 ## Nouveautés :
