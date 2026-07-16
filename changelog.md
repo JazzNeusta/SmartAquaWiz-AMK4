@@ -1,4 +1,10 @@
-﻿# Release v46
+﻿# Release v47
+*Déploiement effectué le : 16/07/2026 à 18:05*
+
+## Nouveautés :
+inversion couleur
+---
+# Release v46
 *Déploiement effectué le : 16/07/2026 à 17:56*
 
 ## Nouveautés :
