@@ -1,3 +1,11 @@
+# Release v28
+*Déploiement effectué le : 16/07/2026 à 14:42:29,70*
+
+## Nouveautés :
+- performOTA() entièrement nettoyée, optimisée et fusionnée avec toutes nos dernières découvertes (gros buffer TLS de 2048 octets pour la vitesse, sécurité anti-triche basée sur la progression réelle de l'écriture, et bascule automatique en arrière-plan).
+
+---
+
 # Release v27
 *Déploiement effectué le : 16/07/2026 à 14:31:39,43*
 
