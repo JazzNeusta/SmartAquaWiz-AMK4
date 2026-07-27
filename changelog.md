@@ -1,4 +1,10 @@
-﻿# Release v61
+﻿# Release v62
+*Déploiement effectué le : 27/07/2026 à 17:56*
+
+## Nouveautés :
+RTC / setup infini / refactoriging / user guide / et le boot infini en setup
+---
+# Release v61
 *Déploiement effectué le : 16/07/2026 à 23:07*
 
 ## Nouveautés :
