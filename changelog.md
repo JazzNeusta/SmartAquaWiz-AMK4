@@ -1,4 +1,10 @@
-﻿# Release v62
+﻿# Release v63
+*Déploiement effectué le : 28/07/2026 à 10:31*
+
+## Nouveautés :
+fix force OTA au reboot
+---
+# Release v62
 *Déploiement effectué le : 27/07/2026 à 17:56*
 
 ## Nouveautés :
