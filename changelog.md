@@ -1,4 +1,10 @@
-﻿# Release v64
+﻿# Release v65
+*Déploiement effectué le : 28/07/2026 à 10:57*
+
+## Nouveautés :
+reboot mode normal apres ota ou flash
+---
+# Release v64
 *Déploiement effectué le : 28/07/2026 à 10:48*
 
 ## Nouveautés :
