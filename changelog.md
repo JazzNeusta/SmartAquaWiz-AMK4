@@ -1,4 +1,10 @@
-﻿# Release v66
+﻿# Release v67
+*Déploiement effectué le : 28/07/2026 à 11:18*
+
+## Nouveautés :
+fix ota
+---
+# Release v66
 *Déploiement effectué le : 28/07/2026 à 11:06*
 
 ## Nouveautés :
