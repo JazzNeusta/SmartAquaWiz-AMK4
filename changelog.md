@@ -1,4 +1,10 @@
-﻿# Release v67
+﻿# Release v68
+*Déploiement effectué le : 28/07/2026 à 11:23*
+
+## Nouveautés :
+reduire OTA auto à 10 min
+---
+# Release v67
 *Déploiement effectué le : 28/07/2026 à 11:18*
 
 ## Nouveautés :
