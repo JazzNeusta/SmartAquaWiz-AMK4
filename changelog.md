@@ -1,4 +1,10 @@
-﻿# Release v69
+﻿# Release v70
+*Déploiement effectué le : 28/07/2026 à 12:06*
+
+## Nouveautés :
+test ota
+---
+# Release v69
 *Déploiement effectué le : 28/07/2026 à 11:31*
 
 ## Nouveautés :
