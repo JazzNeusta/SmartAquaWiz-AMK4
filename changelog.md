@@ -1,4 +1,10 @@
-﻿# Release v70
+﻿# Release v71
+*Déploiement effectué le : 28/07/2026 à 15:23*
+
+## Nouveautés :
+cycle
+---
+# Release v70
 *Déploiement effectué le : 28/07/2026 à 12:06*
 
 ## Nouveautés :
