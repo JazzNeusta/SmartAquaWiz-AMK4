@@ -1,4 +1,10 @@
-﻿# Release v71
+﻿# Release v72
+*Déploiement effectué le : 28/09/2026 à 14:42*
+
+## Nouveautés :
+mise en prod, + OTA + merge bat + V2 AMK4 
+---
+# Release v71
 *Déploiement effectué le : 28/07/2026 à 15:23*
 
 ## Nouveautés :
