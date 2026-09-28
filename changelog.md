@@ -1,4 +1,10 @@
-﻿# Release v72
+﻿# Release v73
+*Déploiement effectué le : 28/09/2026 à 15:38*
+
+## Nouveautés :
+led 
+---
+# Release v72
 *Déploiement effectué le : 28/09/2026 à 14:42*
 
 ## Nouveautés :
