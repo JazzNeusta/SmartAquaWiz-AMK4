@@ -1,4 +1,10 @@
-﻿# Release v73
+﻿# Release v74
+*Déploiement effectué le : 28/09/2026 à 18:01*
+
+## Nouveautés :
+fix algo no wifi
+---
+# Release v73
 *Déploiement effectué le : 28/09/2026 à 15:38*
 
 ## Nouveautés :
