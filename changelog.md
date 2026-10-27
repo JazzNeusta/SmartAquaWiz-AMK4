@@ -1,4 +1,10 @@
-﻿# Release v74
+﻿# Release v75
+*Déploiement effectué le : 27/10/2026 à 15:16*
+
+## Nouveautés :
+Etalonnage sol fiable - mediane, validation, detection calibre ; support capteur resistif SEN0114 - polarite auto ; AquaWiz mesure guidee SEC/EAU ; portail onglets unifies + notice etalonnage ; doc LED ; AquaWiz consoles visibles au-dessus de la barre des taches
+---
+# Release v74
 *Déploiement effectué le : 28/09/2026 à 18:01*
 
 ## Nouveautés :
